@@ -1,1 +1,1 @@
-# CNC-ESP2
+# CNC-ESP32
