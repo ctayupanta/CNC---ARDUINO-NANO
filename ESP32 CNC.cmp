@@ -1,0 +1,467 @@
+Cmp-Mod V01 Created by PcbNew   date = 20/08/2022 14:09:21
+
+BeginCmp
+TimeStamp = 046c6716-d5af-4eb0-99fa-279eba389707
+Path = 
+Reference = REF**;
+ValeurCmp = PinSocket_1x08_P2.54mm_Vertical;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 0648ce4c-f135-4980-9cdd-16e8e033499c
+Path = 
+Reference = REF**;
+ValeurCmp = PinSocket_1x08_P2.54mm_Vertical;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 0e46c4ae-f295-4eef-8f77-7e79a81bb805
+Path = /18260ae2-f8a7-47c1-90b4-98afb5ca9013
+Reference = J3;
+ValeurCmp = DRIVER Z;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 106f6ee3-1a02-4e3a-9b4b-6b0b9db1acae
+Path = /6d6cda47-99c3-4768-b958-a2401d6641a6
+Reference = J8;
+ValeurCmp = Screw_Terminal_01x03;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 1789bd0a-9e69-4e8a-9201-b62ae88b4c90
+Path = /50061390-9bae-4112-bd8b-a14577990ef2
+Reference = R1;
+ValeurCmp = 1.8k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 21f2cb4d-39de-4a47-84f8-1487b393e3ce
+Path = 
+Reference = REF**;
+ValeurCmp = PinSocket_1x15_P2.54mm_Vertical;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 293bd7f8-7878-4e0f-81a5-e505cd168cb8
+Path = /16b6806d-2ce7-430f-8adf-581e57af5b70
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 29cd9e70-9b68-44f7-96b2-fe993c246832
+Path = /d7b6b85c-a6ff-4053-8eb6-541f3ea371e3
+Reference = A3;
+ValeurCmp = Pololu_Breakout_A4988;
+IdModule  = Module:Pololu_Breakout-16_15.2x20.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 2ec9be40-1d5a-4e2d-8a4d-4be2d3c079d5
+Path = /0be64d8a-8f6e-4328-95df-0f1cbbe99490
+Reference = A2;
+ValeurCmp = Pololu_Breakout_A4988;
+IdModule  = Module:Pololu_Breakout-16_15.2x20.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 32043872-145b-4137-b657-d5579b2eff37
+Path = /9c59ed8a-490d-4ffe-aea4-72c61c5d2670
+Reference = J2;
+ValeurCmp = Screw_Terminal_01x03;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 3235194a-ad1f-4b72-9381-bdf05041923f
+Path = /15fd1ea7-ad3f-42b7-b8d7-d30db94b2695
+Reference = J5;
+ValeurCmp = EJE Z;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 3253100b-9987-4afc-86fa-1ac445c1daf1
+Path = /9e5603c3-df36-4424-9649-b4203fc5a268
+Reference = J19;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 3897a7d9-8590-4c76-b39e-2eafc848ce8d
+Path = /59d26a62-d199-4418-a642-fcede38a030d
+Reference = J17;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 392a2d12-cb5c-44a9-846d-780b1e3ef75e
+Path = /d363591c-85ae-4ebc-bd01-c81cc2beab13
+Reference = J11;
+ValeurCmp = EJE Z DUAL;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 3a5b9a2c-8a61-4fb4-950d-2019a00cb66e
+Path = /61385374-6484-4318-a13f-827818edceda
+Reference = C1;
+ValeurCmp = 22 uf;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d340bf4-bf18-451d-9794-48b05be14313
+Path = /ea8935e7-2461-41f7-a4b9-178efb8d1c9a
+Reference = J20;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 40dda6f5-75b3-4788-97ef-07154c1d9afc
+Path = 
+Reference = REF**;
+ValeurCmp = PinSocket_1x08_P2.54mm_Vertical;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 411006c1-3fcd-4276-8a15-ae08cd23fe14
+Path = 
+Reference = REF**;
+ValeurCmp = PinSocket_1x08_P2.54mm_Vertical;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 4850a579-8805-4c29-aaaa-8680c8ca8909
+Path = /fc315b43-d237-4997-8f05-492795f3b1f2
+Reference = J13;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 48c8513e-c919-4b73-bb82-e574a729946b
+Path = /8babdedb-de9b-498d-a166-0b7b8657824f
+Reference = D1;
+ValeurCmp = 1N4007;
+IdModule  = Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61ac64a9-7875-48ac-9d9f-2d4cfe0a9fb1
+Path = /46fcabb3-35aa-4b39-8505-c99fdd5e3c18
+Reference = J23;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6260bfe0-5ec4-4c92-92e5-7d4aebb6fc00
+Path = /3f63ebad-8a44-465c-9059-ce263fb74ee0
+Reference = IRLZ44N;
+ValeurCmp = IRLZ44N;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 662af75d-8b10-4182-9c67-39b2ab20b9cc
+Path = 
+Reference = REF**;
+ValeurCmp = PinSocket_1x08_P2.54mm_Vertical;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 67010cd4-47f7-495c-b403-613320c34b69
+Path = /85d4b7bd-c52f-4b67-a90f-21f03b1aa5dd
+Reference = J24;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 671f56eb-9ec0-4c9c-b760-ddc8a759387f
+Path = /f168bba6-b73b-4975-8851-17709a65aa8a
+Reference = J10;
+ValeurCmp = DRIVER Y;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 691bf7ea-b41e-4c35-9715-0a796cf9140a
+Path = 
+Reference = REF**;
+ValeurCmp = PinSocket_1x15_P2.54mm_Vertical;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 71dc5a86-fd4b-444d-a698-d75eb62cc7cc
+Path = /2c2f4fa8-f896-4d3a-a29e-637be06ccaf3
+Reference = J9;
+ValeurCmp = DRIVER Z DUAL;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 83995cec-dd88-4403-9a9a-8c5ccb1a5910
+Path = /4b269dc2-9f44-4f54-b87c-e36605629440
+Reference = J14;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 878c59fc-9cf8-4863-ab71-8e0b2cf2360b
+Path = /a21904ba-5af6-4c33-99c4-4b6ac2bd7b71
+Reference = J21;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 8dee556e-3f69-4fe9-ae24-bbd832c09a4e
+Path = 
+Reference = REF**;
+ValeurCmp = PinSocket_1x08_P2.54mm_Vertical;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 8df79553-af70-4965-8745-3a2be3e145cb
+Path = 
+Reference = REF**;
+ValeurCmp = PinSocket_1x08_P2.54mm_Vertical;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 90ba69fe-adf8-45ed-a12c-828438a8f727
+Path = /20ea0b3f-6b55-4e30-9113-4f98f8d7885b
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = Diode_SMD:D_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 90fa0465-7fe5-474b-8e7c-9f955c02a0f6
+Path = /751e3419-29c2-437a-a1d5-0a6ab19dd6f3
+Reference = A1;
+ValeurCmp = Pololu_Breakout_A4988;
+IdModule  = Module:Pololu_Breakout-16_15.2x20.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 92cb044d-0d05-4bb8-9560-1ba1b1cb2197
+Path = /5e5aebaa-50aa-4af1-83b7-d806f9c7dcc7
+Reference = C4;
+ValeurCmp = 22 uf;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 96bad70f-b145-4e6e-92e5-23b789e3e405
+Path = /c1b2c4d6-7fff-4448-8c4d-bc874c8d2010
+Reference = J22;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 9a4510f0-70b7-4209-bc92-2c3a3a31764a
+Path = /677eb441-07e4-425e-8392-d8213b082473
+Reference = J6;
+ValeurCmp = EJE X;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = a01f007f-478b-4599-9149-8adafcb1e707
+Path = /5177ce9a-8e3c-41a3-bf42-5479a25b8b7b
+Reference = J27;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = a712435d-189e-45be-9a29-c83f711c1241
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = graficos:logo_dame_una_mano;
+EndCmp
+
+BeginCmp
+TimeStamp = ac8576da-4e00-41a0-9609-eb655e96e10b
+Path = /ea31e336-022b-48c7-be46-407933a78fd4
+Reference = A4;
+ValeurCmp = Pololu_Breakout_A4988;
+IdModule  = Module:Pololu_Breakout-16_15.2x20.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = af73e9c6-a65d-4560-b2f3-108a4495450f
+Path = /f02f48cf-5c20-4f63-881c-59cea67a0982
+Reference = C2;
+ValeurCmp = 22 uf;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = b1b6cd3c-ba3f-4433-96ed-28643896e697
+Path = /2241b064-7189-441a-bac5-5ab9950d35be
+Reference = J18;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = b246d78d-28b8-45c2-a53c-ab34a459d5f1
+Path = /2ffda939-6baa-456b-9bfc-1267cda9aa3d
+Reference = J16;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = b38d6944-28e8-41a0-82d6-a9bcaa94914b
+Path = /6a0f1114-d748-48b6-a09d-ef718afb8c28
+Reference = J7;
+ValeurCmp = Screw_Terminal_01x03;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = b6cc4ac6-ac06-4d90-87b6-c8f8575f4d55
+Path = /65edd2a5-bf5c-4d06-8f6d-51684785bd71
+Reference = Arduino Nano;
+ValeurCmp = ARDUINO NANO ;
+IdModule  = Module:Arduino_Nano;
+EndCmp
+
+BeginCmp
+TimeStamp = c1219bad-306a-42ed-ae4b-67ae30521c53
+Path = /db12377b-0543-4684-bd44-e9fb147e4866
+Reference = MOTOR DC;
+ValeurCmp = MOTOR DC;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = c4137c57-5ce9-4ef1-ac2b-0c730cc784e9
+Path = /244aba91-eced-4e53-a810-b01c1c58ca62
+Reference = J25;
+ValeurCmp = Screw_Terminal_01x04;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = c740f6ed-0d9b-42af-a301-806c7b32fecb
+Path = /3ac82608-6fbc-4830-bcc2-204262809764
+Reference = J29;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = ca7aec34-4428-40d8-82e5-3030e5d8f8eb
+Path = /a4357132-d03a-4af4-bd71-ddada59c10f6
+Reference = C3;
+ValeurCmp = 22 uf;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d500cca0-ae89-49a5-95a2-d4ed9a202d0d
+Path = /8216f12c-84d6-4b9d-8604-5871882c1009
+Reference = J12;
+ValeurCmp = EJE Y;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = d6437ac2-9899-4c5c-bb97-800009931dd2
+Path = /4608d9a4-1de0-49a4-8b7e-a55a79e507e1
+Reference = J1;
+ValeurCmp = Screw_Terminal_01x03;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = d6d6b0e1-606c-4a7a-a1c8-8989249a6dc8
+Path = /62a9c79e-2c68-4156-84c9-8b7a5a43eae0
+Reference = J4;
+ValeurCmp = DRIVER X;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = e00117ae-6527-462d-8236-444a7769ca68
+Path = /81c43bbc-df11-45ad-84d2-c4b0abb857a9
+Reference = C5;
+ValeurCmp = 47uf;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = ee5389a6-0552-49c5-a8ae-5515bef3480a
+Path = /b4f5bbc9-7720-43d4-a7b4-ae0bc2f0f766
+Reference = R2;
+ValeurCmp = 10 ohm;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = f2907b83-7237-4ced-b3e1-af6ba839d737
+Path = /94287246-ba03-433b-b80f-b712c87a80e2
+Reference = J15;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = f41c7f54-dab2-4d50-93ae-48308248df7e
+Path = /af529603-be91-4497-93dc-b4e161da320c
+Reference = J28;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = f45e671e-a51d-499a-a37d-df1cb9a2ff19
+Path = /7ab4c330-95e6-4464-b3d5-4348c0059b67
+Reference = J26;
+ValeurCmp = Screw_Terminal_01x04;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = ff1b0bd1-6356-4646-9801-741bc9bc08ab
+Path = 
+Reference = REF**;
+ValeurCmp = PinSocket_1x08_P2.54mm_Vertical;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 04ab66b2-3b4a-4643-a551-f4e448ae787a
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = graficos:logo_alcaldia_gye;
+EndCmp
+
+EndListe
